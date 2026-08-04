@@ -11,12 +11,12 @@ I enjoy building scalable backend systems, full-stack web applications, IoT solu
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishan101-hub&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan101-hub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanudawatte&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanudawatte&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan101-hub&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanudawatte&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -155,17 +155,17 @@ A modern portfolio platform built to showcase projects, technical skills, and ac
 
 ## 📈 Contribution Graph
 
-[![Ishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishan101-hub\&theme=tokyo-night)](https://github.com/Ishan101-hub)
+[![Ishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishanudawatte\&theme=tokyo-night)](https://github.com/ishanudawatte)
 
 ---
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://ishan101-hub.github.io/DEV-PERSONAL-PORTFOLIO
+🌐 Portfolio: [Ishan Udawatte](https://ishanudawatte.github.io/)
 
-💼 LinkedIn: https://linkedin.com/in/ishan-udawatte-b7bb50257
+💼 LinkedIn: [Ishan Udawatte](https://www.linkedin.com/in/ishan-udawatte-b7bb50257/)
 
-💻 GitHub: https://github.com/Ishan101-hub
+💻 GitHub: [Ishan Udawatte](https://github.com/ishanudawatte)
 
 📧 Email: [erangaudawatte7@gmail.com](mailto:erangaudawatte7@gmail.com)
 
@@ -173,7 +173,7 @@ A modern portfolio platform built to showcase projects, technical skills, and ac
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Ishan101-hub\&color=blueviolet\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ishanudawatte\&color=blueviolet\&style=for-the-badge)
 
 ---
 
