@@ -23,7 +23,7 @@ I enjoy building scalable backend systems, full-stack web applications, IoT solu
 
 ## 🚀 Featured Projects
 
-### AquaSense — IoT Smart Water Management & Leak Detection System
+### AquaSense - IoT Smart Water Management & Leak Detection System
 
 A full-stack IoT platform enabling real-time water consumption monitoring, zone-level leak detection, automated valve control, and intelligent analytics. Built using Flutter, FastAPI, PostgreSQL, Supabase, MQTT, HiveMQ Cloud, and ESP32 devices.
 
@@ -47,7 +47,7 @@ A full-stack e-commerce solution for browsing, purchasing, and managing smart ho
 
 ---
 
-### Todo App — Full-Stack Task Management Application
+### Todo App - Full-Stack Task Management Application
 
 A CRUD-based task management platform built using Node.js, Express.js, MongoDB Atlas, and EJS. Implements MVC-inspired architecture, cloud-hosted data storage, and asynchronous database operations.
 
@@ -128,7 +128,7 @@ A modern portfolio platform built to showcase projects, technical skills, and ac
 
 ## 🏆 Highlights
 
-* 🚀 Project Lead & IoT Systems Engineer — AquaSense
+* 🚀 Project Lead & IoT Systems Engineer - AquaSense
 * 🏅 Professional Certificate in Machine Learning (Merit)
 * 🎓 BSc (Hons) Software Engineering Undergraduate (IIT × University of Westminster)
 * 💡 Passionate about Backend Engineering, IoT Systems, Cloud Technologies & System Design
@@ -138,7 +138,7 @@ A modern portfolio platform built to showcase projects, technical skills, and ac
 
 ## 📜 Certifications
 
-* Professional Certificate in Machine Learning — Merit
+* Professional Certificate in Machine Learning - Merit
 * University of Westminster × Informatics Institute of Technology
 
 ---
